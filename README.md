@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7vim53ko7910fr1l?svg=true)](https://ci.appveyor.com/project/leipoa/rest-x49jn)
